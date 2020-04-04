@@ -20,11 +20,16 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+![](https://www.google.com/photos/about/static/images/google.svg)
+
+
 (https://imgur.com/Vjr20xV.png)
 
 <img src="https://imgur.com/Vjr20xV.png">
 
 ![](https://imgur.com/Vjr20xV.png)
+
+<img src="/images/myImage.png" width=50% height=50% align=center/>
 
 
 [Link](url) and ![Image](src)

@@ -24,7 +24,7 @@ Syntax highlighted code block
 
 <img src="https://imgur.com/Vjr20xV.png">
 
-![Image](https://imgur.com/Vjr20xV.png)
+![](https://imgur.com/Vjr20xV.png)
 
 
 [Link](url) and ![Image](src)

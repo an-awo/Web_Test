@@ -29,7 +29,9 @@ Syntax highlighted code block
 
 ![](https://i.imgur.com/Vjr20xV.png)
 
+![](https://imgur.com/Vjr20xV)
 
+![](https://imgur.com/Vjr20xV.png)
 
 [Link](url) and ![Image](src)
 ```

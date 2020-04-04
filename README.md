@@ -20,11 +20,10 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-```code
+
 ![](https://www.google.com/photos/about/static/images/google.svg)
 
 
-(https://imgur.com/Vjr20xV.png)
 
 <img src="https://imgur.com/Vjr20xV.png">
 

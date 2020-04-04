@@ -20,11 +20,11 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-(https://imgur.com/Vjr20xV)
+(https://imgur.com/Vjr20xV.png)
 
-<img src="https://imgur.com/Vjr20xV">
+<img src="https://imgur.com/Vjr20xV.png">
 
-![Image](https://imgur.com/Vjr20xV)
+![Image](https://imgur.com/Vjr20xV.png)
 
 
 [Link](url) and ![Image](src)

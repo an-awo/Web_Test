@@ -20,6 +20,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+(https://imgur.com/Vjr20xV)
+
 [Link](url) and ![Image](src)
 ```
 

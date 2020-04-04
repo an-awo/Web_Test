@@ -20,6 +20,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+```code
 ![](https://www.google.com/photos/about/static/images/google.svg)
 
 
@@ -27,9 +28,8 @@ Syntax highlighted code block
 
 <img src="https://imgur.com/Vjr20xV.png">
 
-![](https://imgur.com/Vjr20xV.png)
+![](https://i.imgur.com/Vjr20xV.png)
 
-<img src="/images/myImage.png" width=50% height=50% align=center/>
 
 
 [Link](url) and ![Image](src)

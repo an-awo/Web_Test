@@ -5,36 +5,11 @@
 
 資工四乙 陳昶安 405032406  
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
 - List
 
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
-
-
-![](https://www.google.com/photos/about/static/images/google.svg)
-
-
-
-<img src="https://imgur.com/Vjr20xV.png">
-
-![](https://i.imgur.com/Vjr20xV.png)
-
-![](https://imgur.com/Vjr20xV)
-
-![](https://imgur.com/Vjr20xV.png)
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://github.com/an-awo/Web_Test).
 

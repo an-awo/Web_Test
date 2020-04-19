@@ -4,10 +4,14 @@
       //要寫程式的地方
       $("button").addClass("animated bounce");
        $("#target1").css("color", "black");    
-       $("#target2").css("color", "orange");    
- });
+       $("#target2").css("color", "orange");   
+
+       $("#target1").click(function(){
+           $("body").css("background-color",#ADADAD);
+        }); 
+     });
 </script>
-(#ADADAD)
+
 <body>
 <div class="container-fluid">
   <h3 class="text-primary text-center"></h3>

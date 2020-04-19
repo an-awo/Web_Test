@@ -2,15 +2,11 @@
 <script type="text/javascript">
   $(document).ready(function(){
       $("button").addClass("animated bounce");
-       $("#target1").css("color", "black");    
-       $("#target2").css("color", "orange");   
-
        $("button").click(function(){
           var color = this.value;
             $("body").css("background-color",color);
         }); 
 
-      
      });
 </script>
 
@@ -25,11 +21,10 @@
     <div class="col-xs-6">
       <h4>更改背景顏色</h4>
       <div class="well" id="right-well">
-        <button class="btn btn-default target" id="target1">恢復</button>
 
-        <button style="background-color:white" value="white">恢復2</button>   
+        <button style="background-color:white" value="white" id="target1">恢復</button>   
         
-        <button style="background-color:white" value="#CCDDFF">更動</button>   
+        <button style="background-color:#CCDDF" value="#CCDDFF" id="target2">更動</button>   
 
  
       </div>

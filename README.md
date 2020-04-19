@@ -1,7 +1,6 @@
 <script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.js"></script>
 <script type="text/javascript">
   $(document).ready(function(){
-      //要寫程式的地方
       $("button").addClass("animated bounce");
        $("#target1").css("color", "black");    
        $("#target2").css("color", "orange");   
@@ -24,10 +23,12 @@
       </div>
     </div>
     <div class="col-xs-6">
-      <h4>更改顏色</h4>
+      <h4>更改背景顏色</h4>
       <div class="well" id="right-well">
         <button class="btn btn-default target" id="target1">恢復</button>
 
+        <button style="background-color:white" value="white">恢復2</button>   
+        
         <button style="background-color:white" value="#CCDDFF">更動</button>   
 
  

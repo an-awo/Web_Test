@@ -2,11 +2,12 @@
 <script type="text/javascript">
   $(document).ready(function(){
       //要寫程式的地方
-       $("#target1").css("color", "orange");
-       $("#target2").css("color", "black");    
+      $("button").addClass("animated bounce");
+       $("#target1").css("color", "black");    
+       $("#target2").css("color", "orange");    
  });
 </script>
-
+(#ADADAD)
 <body>
 <div class="container-fluid">
   <h3 class="text-primary text-center"></h3>

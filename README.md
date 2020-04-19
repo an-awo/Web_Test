@@ -9,6 +9,10 @@
        $("#target1").click(function(){
            $("body").css("background-color",#ADADAD);
         }); 
+
+         $("#target2").click(function(){
+           $("body").css("background-color",white);
+        }); 
      });
 </script>
 

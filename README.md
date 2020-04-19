@@ -1,7 +1,8 @@
 <script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.js"></script>
 <script type="text/javascript">
   $(document).ready(function(){
-      //要寫程式的地方  
+      //要寫程式的地方
+       $("#target5").css("color", "red");  
  });
 </script>
 
@@ -12,9 +13,7 @@
     <div class="col-xs-6">
       <h4>#left-well</h4>
       <div class="well" id="left-well">
-        <button class="btn btn-default target" id="target1">#target1</button>
-        <button class="btn btn-default target" id="target2">#target2</button>
-        <button class="btn btn-default target" id="target3">#target3</button>
+     
       </div>
     </div>
     <div class="col-xs-6">

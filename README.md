@@ -1,12 +1,11 @@
 <script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.js"></script>
 <script type="text/javascript">
   $(document).ready(function(){
-      //要寫程式的地方
       $("button").addClass("animated bounce");
        $("#target1").css("color", "black");    
        $("#target2").css("color", "orange");   
 
-       $("buton").click(function(){
+       $("button").click(function(){
           var color = this.value;
             $("body").css("background-color",color);
         }); 
@@ -24,11 +23,11 @@
       </div>
     </div>
     <div class="col-xs-6">
-      <h4>#right-well</h4>
+      <h4>更改顏色</h4>
       <div class="well" id="right-well">
         <button class="btn btn-default target" id="target1">變暗</button>
 
-        <button style="background-color:black" value="black">black</button>   
+        <button style="background-color:black" value="#CCDDFF">更動</button>   
 
         <button class="btn btn-default target" id="target2">變亮</button>
       </div>
